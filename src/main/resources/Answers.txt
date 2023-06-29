@@ -1,0 +1,23 @@
+6. Difference between Robot and Action class.
+
+Sol - 
+
+Robot Class:
+
+a. Robot refers to the Robot Framework, an open-source test automation framework that utilizes a keyword-driven approach.
+b. It provides a way to write high-level test cases in a readable, domain-specific language that can be executed by the Robot Framework.
+c. The Robot Framework supports various test libraries, allowing users to perform a wide range of actions, validations, and verifications.
+d. It focuses on the concept of "keywords," which represent reusable test steps or actions that can be invoked in test cases.
+
+Action Class:
+
+a. The term "Action class" is more general and can refer to a class or component used in software development to define and
+   execute specific actions or operations.
+b. In object-oriented programming languages like Java, an "Action class" could be a class that encapsulates a set of related
+   actions or behaviors.
+c. It may contain methods or functions that perform specific tasks or interactions with the system or application under test.
+d. Action classes are often used in frameworks or design patterns such as Page Object Model (POM) for web automation or Model
+   -View-Controller (MVC) for application development.
+
+"Robot Class" typically refers to the Robot Framework, a test automation framework that utilizes keywords, while "Action class"
+ is a more general term that can represent a class or component used to define and execute specific actions or behaviors in software development.
